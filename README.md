@@ -1,1 +1,1 @@
-# krishi-sevak-ai
+# Krishi Sevak AI
